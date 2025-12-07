@@ -4,6 +4,7 @@
   📫 Full-stack developer/Technical Product Manager
   🔬 AI, AR, CV... Focusing on turning cutting-edge AI research into scalable products
   💻 Coding with love ❤️
+  Always open to connecting with professionals and exploring new opportunities.
 </p>
 
 <p align="center">
