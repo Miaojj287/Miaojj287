@@ -3,8 +3,8 @@
 <p align="center">
   📫 Full-stack developer/Technical Product Manager<br>
   🔬 AI, AR, CV... Focusing on turning cutting-edge AI research into scalable products<br>
-  💻 Coding with love ❤️<br>
   Always open to connecting with professionals and exploring new opportunities.<br>
+  💻 Coding with love ❤️<br>
 </p>
 
 <p align="center">
